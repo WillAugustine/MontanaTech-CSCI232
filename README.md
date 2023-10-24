@@ -29,7 +29,7 @@ In this lab, you will become familiar with GitHub as well as the importance of i
 1. Within your new repository, click the ``Settings`` button at the top of the page
 2. In the left menu under **Access**, click ``Collaborators``
 3. Click the green ``Add people`` button
-4. Use my email to add me as a collaborator: **william_augustine@hotmail<span>.</span>com**
+4. Use my email to add me as a collaborator: **willaugustine64@outlook<span>.</span>com**
   
 ### Cloning A Repository To Your Local Machine
 **NOTE: You will have to download Git before proceeding** (see [above](https://github.com/WillAugustine/MontanaTech-CSCI232#downloads) for instructions)
